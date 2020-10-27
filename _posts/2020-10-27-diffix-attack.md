@@ -11,9 +11,6 @@ timestamp: 00:11:38 -0400
 categories: [Surveys]
 ---
 
-This is the second of two posts describing the theory and practice of reconstruction attacks.  To read the first post, which covers the theoretical basis of such attacks, [[click here]](https://differentialprivacy.org/reconstruction-theory/).
-
-----
 
 In the [last post](https://differentialprivacy.org/reconstruction-theory/), we discussed how an attacker can use noisy answers to questions about a database to reconstruct private information in the database. The reconstruction attack framework was:
 
